@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phishing Detection</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Phishing Detection Tool</h1>
+        <label for="textInput">Enter the email or SMS content:</label>
+        <textarea id="textInput" placeholder="Enter the email or SMS content"></textarea>
+        <br>
+        <label for="urlInput">Enter a URL to check:</label>
+        <input type="text" id="urlInput" placeholder="Enter a URL to check">
+        <br>
+        <label for="phishingType">Select Phishing Type:</label>
+        <select id="phishingType">
+            <option value="generic">Generic Phishing</option>
+            <option value="taxRefund">Tax Refund Scam</option>
+            <option value="suspiciousActivity">Suspicious Activity Notice</option>
+            <option value="socialMedia">Social Media Phishing</option>
+            <option value="bogusPayment">Bogus Payment Confirmation</option>
+            <option value="incorrectBilling">Incorrect Billing Information</option>
+            <option value="iCloud">False iCloud Update Notification</option>
+            <option value="hrSurvey">HR Survey Scam</option>
+            <option value="googleDocs">Google Docs Scam</option>
+            <option value="usps">USPS Phishing</option>
+            <option value="voicemail">Fake Voicemail Notification</option>
+            <option value="bogusInvoice">Bogus Invoice Scam</option>
+            <option value="emailUpgrade">Email Account Upgrade Scam</option>
+            <option value="dropbox">Dropbox Phishing</option>
+            <option value="ceoPhishing">CEO Phishing Attempt</option>
+            <option value="costco">Costco Phishing Scam</option>
+            <option value="bank">Bank Scam</option>
+            <option value="fakeApp">Fake App Purchase Prompt</option>
+            <option value="advancedFee">Advanced Fee Scam</option>
+            <option value="accountSuspension">Account Suspension Email</option>
+        </select>
+        <br>
+        <button onclick="analyzeText()">Analyze</button>
+        <div id="result"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+<!--RAHUL Nj-->
