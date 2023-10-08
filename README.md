@@ -1,6 +1,6 @@
 # Phishing-Detection-Tool-web-based
 The Phishing Detection Tool is a web-based application that enables users to analyze email or SMS content to identify potential phishing elements. The tool offers the flexibility to choose from various predefined phishing types, allowing users to tailor the analysis to specific phishing scenarios.
-
+<img width="960" alt="Screenshot 2023-10-08 183346" src="https://github.com/RAHUL-Nj/Phishing-Detection-Tool-web-based/assets/98076310/523c8127-1bc0-48d4-83cf-a8adcf6003c6">
 
 
 Phishing Detection Tool
