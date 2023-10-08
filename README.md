@@ -16,25 +16,25 @@ Result Display: The analysis results are displayed, indicating whether potential
 Phishing Types
 The tool supports the following phishing types for analysis:
 
-Generic Phishing
-Tax Refund Scam
-Suspicious Activity Notice
-Social Media Phishing
-Bogus Payment Confirmation
-Incorrect Billing Information Notice
-False iCloud Update Notification
-HR Survey Scam
-Google Docs Scam
-USPS Phishing
-Fake Voicemail Notification
-Bogus Invoice Scam
-Email Account Upgrade Scam
-Dropbox Phishing
-CEO Phishing Attempt
-Costco Phishing Scam
-Bank Scam
-Fake App Purchase Prompt
-Advanced Fee Scam
+Generic Phishing,
+Tax Refund Scam,
+Suspicious Activity Notice,
+Social Media Phishing,
+Bogus Payment Confirmation,
+Incorrect Billing Information Notice,
+False iCloud Update Notification,
+HR Survey Scam,
+Google Docs Scam,
+USPS Phishing,
+Fake Voicemail Notification,
+Bogus Invoice Scam,
+Email Account Upgrade Scam,
+Dropbox Phishing,
+CEO Phishing Attempt,
+Costco Phishing Scam,
+Bank Scam,
+Fake App Purchase Prompt,
+Advanced Fee Scam,
 Account Suspension Email
 
 Usage
